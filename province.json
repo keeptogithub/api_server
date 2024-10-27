@@ -1,0 +1,30 @@
+[
+	{
+		"id":1,
+		"nameprovince":"kandal"
+	},
+	{
+		"id":2,
+		"nameprovince":"kompot"
+	},
+	{
+		"id":3,
+		"nameprovince":"kompong speu"
+	},
+	{
+		"id":4,
+		"nameprovince":"Phnom Penh"
+	},
+	{
+		"id":5,
+		"nameprovince":"kompong thum"
+	},
+	{
+		"id":6,
+		"nameprovince":"Koh kong"
+	},
+	{
+		"id":7,
+		"nameprovince":"svay reang"
+	}
+]
