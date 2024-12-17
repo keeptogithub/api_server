@@ -6,19 +6,21 @@
 			"id":1,
 			"tittle":"TAEYANG - 눈,코,입 (EYES, NOSE, LIPS)",
 			"timesong":"4:35",
-			"videomv":"",
+			"videomv":"https://keeptogithub.github.io/api_server/",
 			"picturemv":"https://keeptogithub.github.io/api_server/taeyangone.JPG"
 		},
 		{
 			"id":2,
 			"tittle":"TAEYANG - 'VIBE (feat. Jimin of BTS)' M/V",
 			"timesong":"2:58",
+			"videomv":"https://keeptogithub.github.io/api_server/",
 			"picturemv":"https://keeptogithub.github.io/api_server/taeyangtwo.jpg"
 		},
 		{
 			"id":3,
 			"tittle":"TAEYANG - Wedding Dress M/V",
 			"timesong":"4:45",
+			"videomv":"https://keeptogithub.github.io/api_server/",
 			"picturemv":"https://keeptogithub.github.io/api_server/taeyangthree.jpg"
 		}
 	]
